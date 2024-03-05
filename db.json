@@ -1,7 +1,7 @@
 {
   "tasks":[
-    { "id": 1, "title": "finish CS391 MP-3" },
-    { "id": 2, "title": "finish CC102 Daoism Ruism Essay" },
-    { "id": 3, "title": "finish AN290 Interview Essay" }
+    { "id": 1, "title": "finish CS391 MP-3", "body": "due 3/4" },
+    { "id": 2, "title": "finish CC102 Daoism Ruism Essay", "body":"due 2/22" },
+    { "id": 3, "title": "finish AN290 Interview Essay", "body":"due 2/26" }
   ]
 }
